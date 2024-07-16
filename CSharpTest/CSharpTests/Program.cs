@@ -108,7 +108,7 @@ namespace CSharpTests
             var player2 = new Player(hp2, mp2);
 
             // 게임 시작
-            Console.WriteLine("게임 시작!");
+            Console.WriteLine("게임 시작!!!");
             Console.WriteLine("플레이어 1 체력: {0}, 마나: {1}", player1.HP.Value, player1.MP.Value);
             Console.WriteLine("플레이어 2 체력: {0}, 마나: {1}", player2.HP.Value, player2.MP.Value);
 
